@@ -32,6 +32,7 @@
 * [github . neural-networks-for-face-recognition](https://github.com/PAC-P2P/artificial-intelligence/tree/master/neural-networks-for-face-recognition)
 * [csdn . BP神经网络解析](http://blog.csdn.net/linj_m/article/details/9897839)
 * [csdn . BP神经网络的C代码分析](http://blog.csdn.net/linj_m/article/details/40679085)
+* [csdn . BP神经网络C代码实现](http://blog.csdn.net/xiaoch1222/article/details/51332297)
 * [csdn . 神经网络（Neural Networks，NN）推导](http://blog.csdn.net/endlch/article/details/46933861)
 * [cnblogs . Deep Learning 1_深度学习UFLDL教程：Sparse Autoencoder练习（斯坦福大学深度学习教程）](http://www.cnblogs.com/dmzhuo/p/4917298.html)
 * [cnblogs . BP神经网络-- C语言实现](http://www.cnblogs.com/jzhlin/archive/2012/07/30/bp_c.html)
