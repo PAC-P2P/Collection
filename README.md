@@ -30,6 +30,7 @@
 ### 原理及实现代码
 
 * [github . neural-networks-for-face-recognition](https://github.com/PAC-P2P/artificial-intelligence/tree/master/neural-networks-for-face-recognition)
+* [csdn . BP神经网络的数学原理及其算法实现](http://blog.csdn.net/zhongkejingwang/article/details/44514073)
 * [csdn . BP神经网络解析](http://blog.csdn.net/linj_m/article/details/9897839)
 * [csdn . BP神经网络的C代码分析](http://blog.csdn.net/linj_m/article/details/40679085)
 * [csdn . BP神经网络C代码实现](http://blog.csdn.net/xiaoch1222/article/details/51332297)
