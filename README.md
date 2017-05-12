@@ -62,3 +62,4 @@
 
 * [网易云课堂 . 斯坦福CS231n—深度学习与计算机视觉](http://study.163.com/course/courseMain.htm?courseId=1003223001)
 * [网易公开课 . 斯坦福大学公开课 ：机器学习课程](http://open.163.com/special/opencourse/machinelearning.html)
+* [coursera . machine-learning](https://www.coursera.org/learn/machine-learning)
