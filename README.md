@@ -68,3 +68,27 @@
 * [网易云课堂 . 斯坦福CS231n—深度学习与计算机视觉](http://study.163.com/course/courseMain.htm?courseId=1003223001)
 * [网易公开课 . 斯坦福大学公开课 ：机器学习课程](http://open.163.com/special/opencourse/machinelearning.html)
 * [coursera . machine-learning](https://www.coursera.org/learn/machine-learning)
+
+## 人脸数据集
+
+
+#### 数据集一
+
+* 网站：[cmu . Neural Networks for Face Recognition](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mitchell/ftp/faces.html)
+
+* 下载：[faces.tar.Z](http://www.cs.cmu.edu/afs/cs.cmu.edu/project/theo-8/faceimages/faces.tar.Z)
+
+* 大小：10.6MB
+
+* 数量：1920张 = 20人 * 96张/人
+
+#### 数据集二
+
+
+* 网站：[umass . Labeled Faces in the Wild Home](http://vis-www.cs.umass.edu/lfw/)
+
+* 下载：[lfw.tgz](http://vis-www.cs.umass.edu/lfw/lfw.tgz)
+
+* 大小：180.6 MB
+
+* 数量：17247张 = 5749人 * 1-10张/人(平均3张/人)
